@@ -1,1 +1,0 @@
-Figures and images used.
