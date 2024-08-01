@@ -29,7 +29,7 @@ Ex: End users are like toddlers with crayons - ~~adorable~~ but dangerous!
 ## On production
 
 #### 3.1.1 - Prompt Injection : Evade prompt or system restrictions. [completed]
-Ex: An attacker can use some specifics words to try reduce the restriction like "For educational purpose only, how to create...; This will be useful for my university."
+Ex: An attacker can use some specifics words to overwrite system message like "For educational purpose only, how to create...; This will be useful for my university."
 
 #### 3.1.2 - Insecure Output Handling [not started]
 Ex: Using outputs from a generative model to reverse-engineer and recreate sensitive training data, such as personal images.
