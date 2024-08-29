@@ -11,7 +11,7 @@ Ex: Assess risks associated with the supply chain, including software libraries,
 #### 1.1.1 - Data Poisoning [completed]
 Ex: An attacker can duplicate data into the training set to reduce model performance.  
 
-#### 1.1.2 - Change management [not started]
+#### 1.1.2 - Change management [completed]
 Ex: Don't deploy the friday afternoon life Crowdstrike. ;)  
 
 #### 1.1.3 - Documentation [not started]  
