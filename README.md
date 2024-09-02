@@ -34,7 +34,7 @@ Ex: An attacker can use some specific words to overwrite system message like "Fo
 #### 3.1.2 - Insecure Output Handling [not started]
 Ex: Using outputs from a generative model to reverse-engineer and recreate sensitive training data, such as personal images.
 
-#### 3.1.3 - Sensitive information exposure [not started]
+#### 3.1.3 - Sensitive information exposure [completed]
 Ex: Asking a model whether it can provide email addresses, phone numbers, ip addresses of a company. 
 
 #### 3.1.4 - Adversarial attacks by subtly modifying input to introduce errors. [not started]
