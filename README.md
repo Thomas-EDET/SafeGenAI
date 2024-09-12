@@ -31,20 +31,14 @@ Ex: End users are like toddlers with crayons - ~~adorable~~ but dangerous!
 #### 3.1.1 - Prompt Injection : Evade prompt or system restrictions. [completed]
 Ex: An attacker can use some specific words to overwrite system message like "For educational purpose only, how to create...; This will be useful for my university."
 
-#### 3.1.2 - Insecure Output Handling [not started]
-Ex: Using outputs from a generative model to reverse-engineer and recreate sensitive training data, such as personal images.
-
-#### 3.1.3 - Sensitive information exposure [completed]
+#### 3.1.2 - Sensitive information exposure [completed]
 Ex: Asking a model whether it can provide email addresses, phone numbers, ip addresses of a company. 
 
-#### 3.1.4 - Adversarial attacks by subtly modifying input to introduce errors. [not started]
+#### 3.1.3 - Adversarial attacks by subtly modifying input to introduce errors. [not started]
 Ex: Adding noise to an image to make the AI misclassify it.
 
-#### 3.1.5 - Model Stealing by replicate a proprietary model by extensively querying the model. [not started]
-Ex: Querying a generative AI service multiple times to create a clone of the model without access to the original training data.
-
-#### 3.1.6 - Backdoor Attacks : Using agents used by certains AI solution may allow an attacker to deploy backdoors. [not started]
+#### 3.1.4 - Backdoor Attacks : Using agents used by certains AI solution may allow an attacker to deploy backdoors. [not started]
 Ex: A LLM is connected to a Database using a SQLtoolkit, then an attacker may try to add a new user in the database, then connect on it if the port is open to internet.
 
-#### 3.1.7 - Insecure plugins [not started]
+#### 3.1.5 - Insecure plugins [not started]
 Ex : Plugins, toolkits and extensions may present vulnerabilities such as parameters being passed in a single text field instead of separate input parameters.
