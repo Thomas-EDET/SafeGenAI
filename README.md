@@ -37,7 +37,7 @@ Ex: Asking a model whether it can provide email addresses, phone numbers, ip add
 #### 3.1.3 - Adversarial attacks by subtly modifying input to introduce errors. [not started]
 Ex: Adding noise to an image to make the AI misclassify it.
 
-#### 3.1.4 - Backdoor Attacks : Using agents used by certains AI solution may allow an attacker to deploy backdoors. [not started]
+#### 3.1.4 - Backdoor Attacks : Using specific genAI capabilities may facilitate the deployment of backdoors. [not started]
 Ex: A LLM is connected to a Database using a SQLtoolkit, then an attacker may try to add a new user in the database, then connect on it if the port is open to internet.
 
 #### 3.1.5 - Insecure plugins [not started]
