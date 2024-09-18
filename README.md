@@ -40,5 +40,5 @@ Ex: Adding noise to an image to make the AI misclassify it.
 #### 3.1.4 - Backdoor Attacks : Using specific genAI capabilities may facilitate the deployment of backdoors. [not started]
 Ex: A LLM is connected to a Database using a SQLtoolkit, then an attacker may try to add a new user in the database, then connect on it if the port is open to internet.
 
-#### 3.1.5 - Insecure plugins [not started]
+#### 3.1.5 - Insecure plugins [completed]
 Ex : Plugins, toolkits and extensions may present vulnerabilities such as parameters being passed in a single text field instead of separate input parameters.
