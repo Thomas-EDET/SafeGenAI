@@ -14,13 +14,10 @@ Ex: An attacker can duplicate data into the training set to reduce model perform
 #### 1.1.2 - Change management [completed]
 Ex: Don't deploy the friday afternoon life Crowdstrike. ;)  
 
-#### 1.1.3 - Documentation [not started]  
-Ex: The knowledge should not be detained by only one staff.  
-
-#### 1.1.4 - Use secure protocols for the artefact's deployment on PRD. [not started]
+#### 1.1.3 - Use secure protocols for the artefact's deployment on PRD. [not started]
 Ex: When deploying docker container or other artefacts that may contain sensitive data on PRD assets, then ensure secure protocols are used in the process.  
 
-#### 1.1.5 - Ensure end users are trained for using the AI solution [not started]
+#### 1.1.4 - Ensure end users are trained for using the AI solution [not started]
 Ex: End users are like toddlers with crayons - ~~adorable~~ but dangerous!
 
 
@@ -34,7 +31,7 @@ Ex: An attacker can use some specific words to overwrite system message like "Fo
 #### 3.1.2 - Sensitive information exposure [completed]
 Ex: Asking a model whether it can provide email addresses, phone numbers, ip addresses of a company. 
 
-#### 3.1.3 - Adversarial attacks by subtly modifying input to introduce errors. [not started]
+#### 3.1.3 - Adversarial attacks by modifying input to introduce errors. [not started]
 Ex: Adding noise to an image to make the AI misclassify it.
 
 #### 3.1.4 - Backdoor Attacks : Using specific genAI capabilities may facilitate the deployment of backdoors. [not started]
