@@ -79,7 +79,6 @@ Ex : Plugins, toolkits and extensions may present vulnerabilities such as parame
 -Ensure a yardstick / benchmark exists to assess the maturity of the product.  
 -Verify whether test to detect signs of a poisoning attack by analyzing model behavior is implemented. 
 
-
 **As IT security expert we want to ensure that RLHF, part of the change management process lead to the creation of a sane genAI solution. How to do that?**  
 -Assessing the security of the feedback mechanism.  
 -Control the potential impact of model updates based on human feedback on security and privacy.  
@@ -110,8 +109,6 @@ Ex : Plugins, toolkits and extensions may present vulnerabilities such as parame
 -Measure the community involvement, more the community is involved less the support is needed as people help each others.  
 -Check whether free training on how to use the solution with use cases is provided.  
 
-## TLDR  
-  
 **As IT security experts, we want to ensure plugins, extensions and agents are risks-free. How to do that?**  
 -Assess peer-trust, if there are multiples plugins and whether they communicate between themselves.  
 -Evaluate whether IAM is the same as designed before and after a plugin installation.  
@@ -119,8 +116,7 @@ Ex : Plugins, toolkits and extensions may present vulnerabilities such as parame
 -Verify whether plugins rewuire manual human approval before executing any sensitive action.  
 -Check whether plugin APIs keys rotation exists.  
 -Check if some plugins are disabled and not necessary anymore - plugin decommissioning.  
-
-    
+ 
 **As IT security experts, we want to ensure direct prompt injections would not put our system at risk. How to do that?**  
 [!] : We still are at the beginning of genAI era; huge commercial solutions like chatGPT are mainly relying on Reinforcement learning with human feedback, in other words there is no security framework at the moment.  
 -Verify whether the solution implement human feedback loop by relying on responsible vulnerability disclosure.  
