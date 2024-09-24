@@ -13,7 +13,7 @@ Ex: An attacker can duplicate data into a training set to reduce model performan
 #### 2.2 - Change management.
 Ex: Don't deploy the friday afternoon life Crowdstrike. ;)  
 
-#### 2.3 - Training : Ensure easy access for end users. [not started]
+#### 2.3 - Training and documentation : Ensure easy access for end users.
 Ex: End users are like toddlers with crayons - ~~adorable~~ but dangerous!
 
 
