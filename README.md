@@ -25,8 +25,5 @@ Ex: An attacker can use some specific words to overwrite system message like "Fo
 #### 3.1.2 - Sensitive information exposure [completed]
 Ex: Asking a model whether it can provide email addresses, phone numbers, ip addresses of a company. 
 
-#### 3.1.3 - Adversarial attacks by modifying input to introduce errors. [not started]
-Ex: Adding noise to an image to make the AI misclassify it.
-
-#### 3.1.4 - Insecure plugins and backdooring [completed]
+#### 3.1.3 - Insecure plugins and backdooring [completed]
 Ex : Plugins, toolkits and extensions may present vulnerabilities such as parameters being passed in a single text field instead of separate input parameters.
