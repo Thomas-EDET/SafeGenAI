@@ -2,7 +2,7 @@
 This README outlines all security assessments that can be performed before, during, and after releasing a secure GenAI solution, including penetration testing techniques and additional audit-related controls.
 
 ## 1 - Before implementation
-#### 1 - Supply Chain Security.
+#### 1.1 - Supply Chain Security.
 Ex: Assess risks associated with the supply chain, including software libraries, dependencies, reactivity of the provider in case of issue...
 
 
