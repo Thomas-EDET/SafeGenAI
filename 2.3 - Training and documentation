@@ -1,0 +1,39 @@
+## TLDR
+**As IT security expert we want to ensure that our genAI solution is used based on the philosophy it has been developped on. How to do that?**  
+-Get an insight about incident and support tickets, do corellation with poor documentation, training, not working examples...  
+-Verify whether documentation follow the life cycle of the project when the it is updated for example.  
+-Assess the user interface and verify whether it is accessible and implemented according business needs.  
+-Check whether relevant and contextual examples are provided.  
+-Verify how is handle feedbacks and supports and how it is taken into account in the Life Cycle Management of the product.  
+-Measure the community involvement, more the community is involved less the support is needed as people help each others.  
+-Check whether free training on how to use the solution with use cases is provided.  
+
+
+---  
+# Training end users and documenting
+
+## Risks  
+Bad documentation and lack of end users ressources to use a genAI solution can be the cause of:
+- User frustration and dissatisfaction
+- Reduced adoption and usage
+- Increased support requests
+- Incorrect usage
+- Wasted time and effort
+ 
+## Objective
+Establish standardized measures to assess whether documentation and training materials are effectively designed to enhance operational proficiency and minimize user complaints, ensuring that developers are not burdened with unnecessary requests for non-essential updates.  
+
+## General Controls for GenAI  
+
+Not example will be provided for those controls as it's pretty straighforward.  
+
+#### 1 - Make the end user understand what is the product and what its goal is.  
+
+**As IT security expert we want to ensure that our genAI solution is used based on the philosophy it has been developped on. How to do that?**  
+-Get an insight about incident and support tickets, do corellation with poor documentation, training, not working examples...  
+-Verify whether documentation follow the life cycle of the project when the it is updated for example.  
+-Assess the user interface and verify whether it is accessible and implemented according business needs.  
+-Check whether relevant and contextual examples are provided.  
+-Verify how is handle feedbacks and supports and how it is taken into account in the Life Cycle Management of the product.  
+-Measure the community involvement, more the community is involved less the support is needed as people help each others.  
+-Check whether free training on how to use the solution with use cases is provided.  
