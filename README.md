@@ -6,14 +6,14 @@ This README outlines all security assessments that can be performed before, duri
 Ex: Assess risks associated with the supply chain, including software libraries, dependencies, reactivity of the provider in case of issue...
 
 
-## 2 - From development to production
+## 2 - From development to production.
 #### 2.1 - Data Poisoning.
 Ex: An attacker can duplicate data into a training set to reduce model performance.  
 
 #### 2.2 - Change management.
 Ex: Don't deploy the friday afternoon life Crowdstrike. ;)  
 
-#### 2.3 - Training : Ensure end users are trained for using the AI solution [not started]
+#### 2.3 - Training : Ensure easy access for end users. [not started]
 Ex: End users are like toddlers with crayons - ~~adorable~~ but dangerous!
 
 
