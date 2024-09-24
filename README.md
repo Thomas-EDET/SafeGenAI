@@ -29,8 +29,8 @@ Ex: Asking a model whether it can provide email addresses, phone numbers, ip add
 Ex : Plugins, toolkits and extensions may present vulnerabilities such as parameters being passed in a single text field instead of separate input parameters.
 
 
-## 4 - Ex of content you will find: 
-
+### 4 - Example of content you will find: 
+#### Change Management for genAI
 [...]
 
 <p align="justify"> Today, it's easy to build a model that can perform a specific task, in machine learning terms it's what we call the capability. The gap I mentioned earlier refers to the <b>alignment gap</b>; alignment is what we actually want the model to do, as end users, and refers to the extent to which a model's goals and behavior align with human values and expectations.   </p>
